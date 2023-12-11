@@ -33,7 +33,7 @@ h6 {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #47B2E4;
+  background-color: #47b2e4;
 }
 /*-----------*\
 || Preloader ||
@@ -293,7 +293,7 @@ h6 {
     position: absolute;
     content: "";
     width: 40%;
-    background: #30415F;
+    background: #30415f;
     top: 0;
     bottom: 0;
   }
@@ -500,7 +500,7 @@ section {
 .services .icon-box::before {
   content: "";
   position: absolute;
-  background: #3D4D6A;
+  background: #3d4d6a;
   right: -60px;
   top: -40px;
   width: 100px;
@@ -515,7 +515,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #3D4D6A;
+  background: #3d4d6a;
   right: 0;
   top: 0;
   width: 100%;
@@ -531,7 +531,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #3D4D6A;
+  background: #3d4d6a;
   transition: all 0.3s ease-in-out;
 }
 
@@ -567,7 +567,7 @@ section {
 }
 
 .services .icon-box:hover .icon ion-icon {
-  color: #3D4D6A;
+  color: #3d4d6a;
 }
 /*-----*\
 || Cta ||
@@ -637,12 +637,12 @@ section {
 }
 
 .card::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 3px;
-  background-color: #47B2E4;
+  background-color: #47b2e4;
 }
 
 .card_img {
@@ -663,20 +663,19 @@ section {
 }
 
 .more-services .card-title a:hover {
-  color: #30415F;
+  color: #30415f;
 }
 
 .more-services .btn {
   border-radius: 50px;
   padding: 4px 30px 6px 30px;
-  border: 2px solid #30415F;
+  border: 2px solid #30415f;
 }
 
 .more-services .btn:hover {
   color: #fff;
-  background: #30415F;
+  background: #30415f;
 }
-
 
 /*-----------*\
 || Portfolio ||
@@ -710,7 +709,7 @@ section {
   position: relative;
   right: 5px;
   top: 2px;
-  width:  35px;
+  width: 35px;
   height: 35px;
 }
 
@@ -1001,10 +1000,10 @@ section {
 }
 
 .contact .info ion-icon {
-  font-size: 20px ;
+  font-size: 20px;
   color: #47b2e4;
   float: left;
-  width:  38px;
+  width: 38px;
   height: 38px;
   padding: 6px;
   background: #e7f5fb;
